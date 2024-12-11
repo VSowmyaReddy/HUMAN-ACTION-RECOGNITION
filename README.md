@@ -1,4 +1,4 @@
- HADE:EXPLOITINGHUMANACTIONRECOGNITION THROUGHFINE-TUNEDDEEPLEARNING
+ HADE:EXPLOITING HUMAN ACTION RECOGNITION THROUGH FINE-TUNED DEEPLEARNING
 
  Human Action Recognition (HAR) is a vital area of computer vision with diverse applications in security, healthcare, and human-computer interaction. Addressing the challenges of HAR,
  particularly in dynamic and complex environments, is essential to advancing this field.The strength of the HADE framework is its carefully curated dataset, which was primarily derived from
